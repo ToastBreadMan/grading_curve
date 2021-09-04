@@ -73,4 +73,4 @@ Install precommits with
 
 ### Secret Key
 * The secret key has to be [generated](https://djecrety.ir/) or is given by an Administrator.
-Store it in the base directory as **SECRET_KEY.txt**
+Store it in the base directory as **.env**
