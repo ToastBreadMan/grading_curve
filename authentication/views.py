@@ -1,8 +1,8 @@
 from django.http import HttpResponse
-from django.shortcuts import render
 
 # Create your views here.
+import django_grade_compare.settings
 from authentication.models import CustomUser
 
-def login():
+def login(request):
     return HttpResponse("Hello World")
