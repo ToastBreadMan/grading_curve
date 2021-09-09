@@ -1,2 +1,2 @@
 django
-pre-commit
+python_dotenv
